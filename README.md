@@ -1,7 +1,13 @@
 
 ## Installation
 
-How to run my-project
+How to init node modules
+
+```bash
+  npm install
+```
+
+How to start
 
 ```bash
   npm start
