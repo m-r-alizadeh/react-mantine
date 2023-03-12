@@ -4,12 +4,12 @@
 How to run my-project
 
 ```bash
-  npm Run
+  npm start
 ```
 
 How to run fake json server
 
 ```bash
-  npm Run server
+  npm run server
 ```
     
