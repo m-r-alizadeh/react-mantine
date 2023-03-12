@@ -1,0 +1,92 @@
+{
+  "auth": {
+    "username": "dgdf@sdg.dfgdfg",
+    "password": "dfgdfgdgf"
+  },
+  "jobsStat": {
+    "current": 1,
+    "all": 2
+  },
+  "messages": [
+    {
+      "image": "https://static.vecteezy.com/system/resources/previews/002/002/403/large_2x/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "title": "Warning",
+      "text": "ScrollArea integrates seamlessly with all Mantine components that can require scroll bars."
+    },
+    {
+      "image": "https://static.vecteezy.com/system/resources/previews/014/260/351/large_2x/stop-red-road-sign-3d-with-hand-stop-symbol-isolated-white-background-traffic-stop-dangerous-signs-3d-render-illustration-free-photo.jpg",
+      "title": "Great for tooltips",
+      "text": "Create and export CSS code for a custom box with an arrow extending out from the side."
+    },
+    {
+      "image": "",
+      "title": "Congratulations",
+      "text": "You have successfully logged in to your account. Welcome back! We are glad to see you again."
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Victoria Car Platform",
+      "text": ""
+    },
+    {
+      "id": 2,
+      "title": "Ford Car Base",
+      "text": ""
+    },
+    {
+      "id": 3,
+      "title": "Lincoln Panther platform",
+      "text": ""
+    },
+    {
+      "id": 4,
+      "title": "Dynamic Innovative",
+      "text": ""
+    }
+  ],
+  "jobData": [
+    {
+      "id": 1,
+      "title": "Victoria Car Platform",
+      "docs": [],
+      "photos": [],
+      "progress": []
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "patent": 645968,
+      "reqNumber": 12,
+      "orderNumber": 456,
+      "title": "Victoria Car Platform",
+      "endDate": "2023/3/2"
+    },
+    {
+      "id": 2,
+      "patent": 986562,
+      "reqNumber": 23,
+      "orderNumber": 856,
+      "title": "Ford Car Base",
+      "endDate": "2023/4/7"
+    },
+    {
+      "id": 3,
+      "patent": 1235774,
+      "reqNumber": 45,
+      "orderNumber": 916,
+      "title": "Lincoln Panther platform",
+      "endDate": "2023/3/1"
+    },
+    {
+      "id": 4,
+      "patent": 6523145,
+      "reqNumber": 312,
+      "orderNumber": 923,
+      "title": "Dynamic Innovative",
+      "endDate": "2023/3/5"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+@import "./vars.scss";
+
+.login-layout {
+    background-color: $primaryBg;
+    height: 100%;
+
+    form {
+        width: 80%;
+        @media (max-width:64em) {
+            width: 100%;
+        }
+
+        input,.mra-PasswordInput-input {
+            border-width: 0 0 2px 0 !important;
+        }
+    }
+
+    img {
+        border-radius: 0.5rem 0.5rem 0 0;
+
+        @media (min-width:48em) {
+            border-radius: 0.5rem 0 0 0.5rem;
+        }
+
+    }
+}

@@ -1,0 +1,40 @@
+@import "./vars.scss";
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+.aside,.primaryBlueBg {
+    background: $primaryBg !important;
+}
+.mra-Modal-content{
+    background: $primaryBg !important;
+    
+}
+.mra-Modal-header{
+    background: $primaryBg !important;
+}
+.primaryBlue {
+    color: $primaryBg  !important;
+}
+
+.arrow_box {
+    position: relative;
+
+    &:after {
+        right: 100%;
+        top: 40%;
+        border: solid transparent;
+        content: "";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        border-color: rgba(136, 183, 213, 0);
+        border-right-color: #fff;
+        border-width: 10px;
+        margin-top: -10px;
+    }
+}
